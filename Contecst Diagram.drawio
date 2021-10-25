@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T08:23:02.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="_y2VQByJ0yKCg7KG2SjI" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T08:28:18.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="l3E7HY71_WGJ6EcOP_uG" version="15.5.9" type="github">
   <diagram id="HJL4gtccgw9ECOeoA37o" name="Page-1">
     <mxGraphModel dx="2633" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,8 +9,8 @@
         </mxCell>
         <mxCell id="zwlfHStFDQA1q4JiYd55-6" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280.5" y="240" as="sourcePoint" />
-            <mxPoint x="280" y="420" as="targetPoint" />
+            <mxPoint x="260" y="240" as="sourcePoint" />
+            <mxPoint x="259.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zwlfHStFDQA1q4JiYd55-7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -50,7 +50,7 @@
           <mxGeometry x="12" y="610" width="335" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p-8zRFwqx9bhIr6z1Y6U-7" value="&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Проектирование правил и структуры игры&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="294" y="320" width="120" height="30" as="geometry" />
+          <mxGeometry x="270" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w9K8XpA9BYmhiicVjxku-1" value="Реализация игры" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="530" y="440" width="230" height="30" as="geometry" />
@@ -60,12 +60,21 @@
         </mxCell>
         <mxCell id="iIeiYjmVbhsuRGoYx768-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490.5" y="240" as="sourcePoint" />
-            <mxPoint x="490" y="420" as="targetPoint" />
+            <mxPoint x="400.5" y="240" as="sourcePoint" />
+            <mxPoint x="400" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iIeiYjmVbhsuRGoYx768-3" value="Создание спрайтов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="414" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIeiYjmVbhsuRGoYx768-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480.5" y="240" as="sourcePoint" />
+            <mxPoint x="480" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIeiYjmVbhsuRGoYx768-7" value="Программирование игрового движка" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
