@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T07:45:51.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="kj9D_qu3hb-JGy-0aG80" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T07:53:34.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="-SfQ3BaVdOHKnY0yhC2A" version="15.5.9" type="github">
   <diagram id="HJL4gtccgw9ECOeoA37o" name="Page-1">
-    <mxGraphModel dx="1806" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2633" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="zwlfHStFDQA1q4JiYd55-7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="479.5" as="sourcePoint" />
+            <mxPoint x="-20" y="480" as="sourcePoint" />
             <mxPoint x="240" y="479.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -40,8 +40,8 @@
         <mxCell id="p-8zRFwqx9bhIr6z1Y6U-2" value="Проект: Деятельность компании" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="20" y="130" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p-8zRFwqx9bhIr6z1Y6U-3" value="Звонки клиентов" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="40" y="440" width="190" height="30" as="geometry" />
+        <mxCell id="p-8zRFwqx9bhIr6z1Y6U-3" value="Создание концепта игры" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="440" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p-8zRFwqx9bhIr6z1Y6U-4" value="Директор" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="110" y="555" width="110" height="30" as="geometry" />
@@ -49,14 +49,14 @@
         <mxCell id="p-8zRFwqx9bhIr6z1Y6U-6" value="Моделировать текущие (AS-IS) бизнес-процессы компании" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="20" y="610" width="335" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p-8zRFwqx9bhIr6z1Y6U-7" value="Правила и процедуры" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="420" y="350" width="70" height="30" as="geometry" />
+        <mxCell id="p-8zRFwqx9bhIr6z1Y6U-7" value="Создание концепт артов игры" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="420" y="350" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w9K8XpA9BYmhiicVjxku-1" value="Реализация игры" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="530" y="440" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w9K8XpA9BYmhiicVjxku-3" value="Бухгалтерская система" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="390" y="555" width="250" height="30" as="geometry" />
+        <mxCell id="w9K8XpA9BYmhiicVjxku-3" value="Бета-тест игры" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="430" y="555" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
